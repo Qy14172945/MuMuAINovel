@@ -1,0 +1,15 @@
+# 打包输出
+output/
+
+# 临时文件
+*.pyc
+__pycache__/
+
+# 构建缓存
+build/
+dist/
+*.spec
+
+# 虚拟环境
+venv/
+env/
